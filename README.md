@@ -5,5 +5,5 @@
 
 # Github: https://github.com/shubham6692/Heart_Disease_Prediction
 
-# Heroku: 
+# Heroku: https://app-heart-disease-prediction.herokuapp.com/
 
